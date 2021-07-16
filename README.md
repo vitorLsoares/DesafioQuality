@@ -10,4 +10,4 @@ Integrantes:
 
 ## Testes
 
-Para que os testes sejão efetuados com sucesso é necessário popular o banco via **localhost:8080/property/populate-database**
+Para que os testes serão efetuados com sucesso é necessário popular o banco via **localhost:8080/property/populate-database**
